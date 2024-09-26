@@ -4,7 +4,7 @@ Welcome to exVision, a GitHub organization dedicated to building computer vision
 
 ## About exVision
 
-exVision is an educational initiative supervised by Dr. Ahmed Badawy, Eng. Laila, and Eng. Omar as part of the Classic Computer Vision class at the Systems and Biomedical Engineering Department, Cairo University, for the year 2024. Our goal is to provide hands-on experience in developing computer vision algorithms and embedding them in desktop applications using PyQt.
+exVision is an educational initiative supervised by <a href="https://scholar.google.com/citations?hl=en&user=r9pLu6EAAAAJ">Dr. Ahmed Badawy</a>, <a href="https://www.linkedin.com/in/laila-abbas/">Eng. Laila Abbas</a>, and <a href="https://www.linkedin.com/in/omar-dawah-0aab5b314/">Eng. Omar Dawah</a> as part of the Classic Computer Vision class at the Systems and Biomedical Engineering Department, Cairo University, for the year 2024. Our goal is to provide hands-on experience in developing computer vision algorithms and embedding them in desktop applications using PyQt.
 
 ## Our Repositories
 
@@ -60,15 +60,23 @@ We welcome contributions from students and enthusiasts interested in computer vi
 3. Make your changes and ensure all tests pass.
 4. Submit a pull request with a clear description of your changes.
 
-Please read the CONTRIBUTING.md file in each repository for specific guidelines.
+Please read the CONTRIBUTING.md file in each repository, if exists, for specific guidelines.
 
 ## Acknowledgements
 
 We would like to express our gratitude to:
 
-- Dr. Ahmed Badawy, Eng. Laila, and Eng. Omar for their guidance and supervision.
-- The Systems and Biomedical Engineering Department at Cairo University for supporting this initiative.
-- All students and contributors who have helped develop and improve these projects.
+- <a href="https://scholar.google.com/citations?hl=en&user=r9pLu6EAAAAJ">Dr. Ahmed Badawy</a>, <a href="https://www.linkedin.com/in/laila-abbas/">Eng. Laila Abbas</a>, and <a href="https://www.linkedin.com/in/omar-dawah-0aab5b314/">Eng. Omar Dawah</a> for their guidance and supervision.
+- The Systems and Biomedical Engineering Department at Cairo University for offering this course.
+- Our wonderful team:
+
+<div align="center">
+
+| <a href="https://github.com/cln-Kafka"><img src="https://avatars.githubusercontent.com/u/100665578?v=4" width="100px" alt="@Kareem Noureddine"></a> | <a href="https://github.com/joyou159"><img src="https://avatars.githubusercontent.com/u/85418161?v=4" width="100px" alt="@Youssef Shawki"></a> | <a href="https://github.com/Nadaaomran"><img src="https://avatars.githubusercontent.com/u/104179154?v=4" width="100px" alt="@Nada Omran"></a> | <a href="https://github.com/nouran-19"><img src="https://avatars.githubusercontent.com/u/99448829?v=4" width="100px" alt="@Nouran Khattab"></a> | <a href="https://github.com/MuhammadSamiAhmad"><img src="https://avatars.githubusercontent.com/u/101589634?v=4" width="100px" alt="@Mohamed Sami"></a> |
+| :-: | :-: | :-: | :-: | :-: |
+| [Kareem Noureddine](https://github.com/cln-Kafka) | [Youssef Shawki](https://github.com/joyou159) | [Nada Omran](https://github.com/Nadaaomran) | [Nouran Khattab](https://github.com/nouran-19) | [Mohamed Sami](https://github.com/MuhammadSamiAhmad) |
+
+</div>
 
 ## License
 
