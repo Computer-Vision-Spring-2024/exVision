@@ -1,44 +1,20 @@
 # exVision: Computer Vision Concepts from Scratch
 
-Welcome to exVision, a GitHub organization dedicated to building computer vision concepts from scratch using Python and PyQt. Our projects focus on implementing classic computer vision algorithms without relying on pre-built libraries like OpenCV, providing a deep understanding of the underlying principles.
+Welcome to exVision (short for "ex-Vision"), a GitHub organization dedicated to building classic computer vision concepts from scratch using Python and PyQt. Our name reflects the idea that while these algorithms were once ("ex") the primary tools in computer vision, they have largely been superseded by deep learning approaches in many applications. However, understanding these foundational concepts remains crucial for any aspiring computer vision engineer or researcher.
 
 ## About exVision
 
 exVision is an educational initiative supervised by <a href="https://scholar.google.com/citations?hl=en&user=r9pLu6EAAAAJ">Dr. Ahmed Badawy</a>, <a href="https://www.linkedin.com/in/laila-abbas/">Eng. Laila Abbas</a>, and <a href="https://www.linkedin.com/in/omar-dawah-0aab5b314/">Eng. Omar Dawah</a> as part of the Classic Computer Vision class at the Systems and Biomedical Engineering Department, Cairo University, for the year 2024. Our goal is to provide hands-on experience in developing computer vision algorithms and embedding them in desktop applications using PyQt.
 
-## Our Repositories
-
-exVision consists of five main repositories, each focusing on different aspects of computer vision:
-
-1. **BasicOperations**: Implements fundamental image processing techniques, including:
-   - Edge detection
-   - Thresholding
-   - Hybrid images
-   - Low-pass and high-pass filters
-   - Noise addition
-   - Histogram equalization
-   - Image normalization
-
-2. **HoughAndSnakes**: Focuses on advanced shape detection and object boundary tracking:
-   - Hough Transform for line and circle detection
-   - Active Contours (Snakes) for object boundary tracking
-
-3. **SIFT**: Implements the Scale-Invariant Feature Transform algorithm for robust feature detection and description.
-
-4. **SegmentationAndThresholding**: Explores advanced image segmentation techniques and thresholding methods.
-
-5. **FaceDetectionAndRecognition**: Develops algorithms for detecting and recognizing faces in images.
-
-Each repository contains Python implementations of the algorithms along with PyQt-based graphical user interfaces for easy interaction and visualization.
+## Our Repositories Overview
 
 ## Getting Started
 
 To get started with any of the exVision projects:
 
 1. Clone the desired repository.
-2. Ensure you have Python installed on your system.
-3. Install the required dependencies (mainly PyQt and NumPy).
-4. Run the main application file to launch the GUI.
+2. Ensure you have requirements of this repo installed on your system.
+3. Run the main application file to launch the GUI.
 
 Detailed instructions for setup and usage can be found in each repository's individual README file.
 
