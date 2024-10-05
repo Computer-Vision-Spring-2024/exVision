@@ -8,23 +8,23 @@ exVision is supervised by <a href="https://scholar.google.com/citations?hl=en&us
 
 ## Our Repositories Overview
 
-### exVision
+### <a href="https://github.com/Computer-Vision-Spring-2024/exVision">exVision</a>
 
 - Desktop application incorporating all features of the other repositories but with more enhanced user experience and interface.
 
-### BasicToolkit and BasicToolkit-v2
+### <a href="https://github.com/Computer-Vision-Spring-2024/exVision-BasicToolkit">BasicToolkit</a> and <a href="https://github.com/Computer-Vision-Spring-2024/exVision-BasicToolkit-v2">BasicToolkit-v2</a>
 
 - (Archived) Incorporating the basic image processing tools such as equalizing, edge detection, thresholding, Hough transformation, and active contouring (SNAKES).
 
-### AlgoSegment
+### <a href="https://github.com/Computer-Vision-Spring-2024/exVision-AlgoSegment">AlgoSegment</a>
 
 - Different algorithmic segmentation techniques, specifically clustering and thresholding
 
-### FeatureCraft
+### <a href="https://github.com/Computer-Vision-Spring-2024/exVision-FeatureCraft">FeatureCraft</a>
 
 - Classical feature engineering techniques including SIFT features and corners detection.
 
-### FacialSys
+### <a href="https://github.com/Computer-Vision-Spring-2024/exVision-FacialSys">FacialSys</a>
 
 - Face detection using Viola-Jones classical technique as well as face recognition using PCA analysis.
 
