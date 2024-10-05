@@ -1,12 +1,32 @@
 # exVision: Computer Vision Concepts from Scratch
 
-Welcome to exVision (short for "ex-Vision"), a GitHub organization dedicated to building classic computer vision concepts from scratch using Python and PyQt. Our name reflects the idea that while these algorithms were once ("ex") the primary tools in computer vision, they have largely been superseded by deep learning approaches in many applications. However, understanding these foundational concepts remains crucial for any aspiring computer vision engineer or researcher.
+Welcome to exVision, a GitHub organization dedicated to building classic computer vision concepts from scratch using Python and PyQt. Our name reflects the idea that while these algorithms were once ("ex") the primary tools in computer vision, they have largely been superseded by deep learning approaches in many applications. However, understanding these foundational concepts remains crucial for any aspiring computer vision engineer or researcher.
 
 ## About exVision
 
-exVision is an educational initiative supervised by <a href="https://scholar.google.com/citations?hl=en&user=r9pLu6EAAAAJ">Dr. Ahmed Badawy</a>, <a href="https://www.linkedin.com/in/laila-abbas/">Eng. Laila Abbas</a>, and <a href="https://www.linkedin.com/in/omar-dawah-0aab5b314/">Eng. Omar Dawah</a> as part of the Classic Computer Vision class at the Systems and Biomedical Engineering Department, Cairo University, for the year 2024. Our goal is to provide hands-on experience in developing computer vision algorithms and embedding them in desktop applications using PyQt.
+exVision is supervised by <a href="https://scholar.google.com/citations?hl=en&user=r9pLu6EAAAAJ">Dr. Ahmed Badawy</a>, <a href="https://www.linkedin.com/in/laila-abbas/">Eng. Laila Abbas</a>, and <a href="https://www.linkedin.com/in/omar-dawah-0aab5b314/">Eng. Omar Dawah</a> as part of the Classic Computer Vision class at the Systems and Biomedical Engineering Department, Cairo University, for the year 2024. Our goal is to provide hands-on experience in developing computer vision algorithms and embedding them in desktop applications using PyQt.
 
 ## Our Repositories Overview
+
+### exVision
+
+- Desktop application incorporating all features of the other repositories but with more enhanced user experience and interface.
+
+### BasicToolkit and BasicToolkit-v2
+
+- (Archived) Incorporating the basic image processing tools such as equalizing, edge detection, thresholding, Hough transformation, and active contouring (SNAKES).
+
+### AlgoSegment
+
+- Different algorithmic segmentation techniques, specifically clustering and thresholding
+
+### FeatureCraft
+
+- Classical feature engineering techniques including SIFT features and corners detection.
+
+### FacialSys
+
+- Face detection using Viola-Jones classical technique as well as face recognition using PCA analysis.
 
 ## Getting Started
 
