@@ -46,8 +46,6 @@ We welcome contributions from students and enthusiasts interested in computer vi
 3. Make your changes and ensure all tests pass.
 4. Submit a pull request with a clear description of your changes.
 
-Please read the CONTRIBUTING.md file in each repository, if exists, for specific guidelines.
-
 ## Acknowledgements
 
 We would like to express our gratitude to:
