@@ -28,16 +28,6 @@ exVision is supervised by <a href="https://scholar.google.com/citations?hl=en&us
 
 - Face detection using Viola-Jones classical technique as well as face recognition using PCA analysis.
 
-## Getting Started
-
-To get started with any of the exVision projects:
-
-1. Clone the desired repository.
-2. Ensure you have requirements of this repo installed on your system.
-3. Run the main application file to launch the GUI.
-
-Detailed instructions for setup and usage can be found in each repository's individual README file.
-
 ## Seeking Help
 
 If you need assistance or have questions about any of the projects:
