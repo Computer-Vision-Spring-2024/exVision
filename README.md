@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/83678ba1-15bd-4b6d-b634-a1821814dca2)# exVision: Computer Vision Concepts from Scratch
+# exVision: Computer Vision Concepts from Scratch
 
 Welcome to exVision, a GitHub organization dedicated to building classic computer vision concepts from scratch using Python and PyQt. Our name reflects the idea that while these algorithms were once ("ex") the primary tools in computer vision, they have largely been superseded by deep learning approaches in many applications. However, understanding these foundational concepts remains crucial for any aspiring computer vision engineer or researcher.
 
