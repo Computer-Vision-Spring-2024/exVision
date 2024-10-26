@@ -1,4 +1,4 @@
-# exVision: Computer Vision Concepts from Scratch
+![image](https://github.com/user-attachments/assets/83678ba1-15bd-4b6d-b634-a1821814dca2)# exVision: Computer Vision Concepts from Scratch
 
 Welcome to exVision, a GitHub organization dedicated to building classic computer vision concepts from scratch using Python and PyQt. Our name reflects the idea that while these algorithms were once ("ex") the primary tools in computer vision, they have largely been superseded by deep learning approaches in many applications. However, understanding these foundational concepts remains crucial for any aspiring computer vision engineer or researcher.
 
@@ -10,7 +10,7 @@ exVision is supervised by <a href="https://scholar.google.com/citations?hl=en&us
 
 ### <a href="https://github.com/Computer-Vision-Spring-2024/exVision-BasicToolkit">exVision-BasicToolkit</a>
 
-- Incoroprating basic preprocessing techniques including filtration (spatial & frequency domains), edge detection, and histogram equalization. Besides, advanced image-processing techniques as Hough transform and active coutour (SNAKES).   
+- Incorporatingv basic preprocessing techniques including filtration (spatial & frequency domains), edge detection, and histogram equalization. Besides, advanced image-processing techniques as Hough transform and active coutour (SNAKES).   
 
 ### <a href="https://github.com/Computer-Vision-Spring-2024/exVision-BasicToolkit-v1">BasicToolkit-v1</a> and <a href="https://github.com/Computer-Vision-Spring-2024/exVision-BasicToolkit-v2">BasicToolkit-v2</a>
 
@@ -18,15 +18,15 @@ exVision is supervised by <a href="https://scholar.google.com/citations?hl=en&us
 
 ### <a href="https://github.com/Computer-Vision-Spring-2024/exVision-AlgoSegment">AlgoSegment</a>
 
-- Incoroprating different algorithmic segmentation techniques, specifically clustering and thresholding.
+- Incorporating different algorithmic segmentation techniques, specifically clustering and thresholding.
 
 ### <a href="https://github.com/Computer-Vision-Spring-2024/exVision-FeatureCraft">FeatureCraft</a>
 
-- Incoroprating classical feature engineering techniques including SIFT features and corners detection.
+- Incorporating classical feature engineering techniques including SIFT features and corners detection.
 
 ### <a href="https://github.com/Computer-Vision-Spring-2024/exVision-FacialSys">FacialSys</a>
 
-- Incoroprating Face detection using Viola-Jones classical technique as well as face recognition using PCA analysis.
+- Incorporating Face detection using Viola-Jones classical technique as well as face recognition using PCA analysis.
 
 ## Seeking Help
 
