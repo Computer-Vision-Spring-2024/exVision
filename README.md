@@ -10,7 +10,7 @@ exVision is supervised by <a href="https://scholar.google.com/citations?hl=en&us
 
 ### <a href="https://github.com/Computer-Vision-Spring-2024/exVision-BasicToolkit">exVision-BasicToolkit</a>
 
-- Incorporatingv basic preprocessing techniques including filtration (spatial & frequency domains), edge detection, and histogram equalization. Besides, advanced image-processing techniques as Hough transform and active contour (SNAKES).   
+- Incorporating basic preprocessing techniques including filtration (spatial & frequency domains), edge detection, and histogram equalization. Besides, advanced image-processing techniques as Hough transform and active contour (SNAKES).   
 
 ### <a href="https://github.com/Computer-Vision-Spring-2024/exVision-BasicToolkit-v1">BasicToolkit-v1</a> and <a href="https://github.com/Computer-Vision-Spring-2024/exVision-BasicToolkit-v2">BasicToolkit-v2</a>
 
